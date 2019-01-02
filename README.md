@@ -8,14 +8,14 @@ In order to speed up the processing, I set the structural element size to be a c
 # Example of Original Images and Enhanced Images
 
 ### One Example
-<div align=left><img src="./demo_img/3_original.png" width="500px/"></div>
-<div align=left><img src="./demo_img/3_enhanced.png" width="500px/"></div>
-<div align=left><img src="./demo_img/3_analyse.png" width="5px/"></div>
+<div align=center><img src="./demo_img/3_original.png" width="500px/"></div>
+<div align=center><img src="./demo_img/3_enhanced.png" width="500px/"></div>
+<div align=center><img src="./demo_img/3_analyse.png" height="600px"></div>
 
 ### Another Example
-<div align=left><img src="./demo_img/4_original.png" width="500px/"></div>
-<div align=left><img src="./demo_img/4_enhanced.png" width="500px/"></div>
-<div align=left><img src="./demo_img/4_analyse.png" width="500px/"></div>
+<div align=center><img src="./demo_img/4_original.png" width="500px/"></div>
+<div align=center><img src="./demo_img/4_enhanced.png" width="500px/"></div>
+<div align=center><img src="./demo_img/4_analyse.png" height="600px/"></div>
 
 
 # For more
